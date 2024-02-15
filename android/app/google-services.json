@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114352370145",
+    "project_id": "fresh-n-fish-a80f5",
+    "storage_bucket": "fresh-n-fish-a80f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114352370145:android:8aab027203a6485b35e2a0",
+        "android_client_info": {
+          "package_name": "com.fresh_n_fish_spectrum_kochi.fresh_n_fish_spectrum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBctsSYU5lvBOMXT5JK0OzL2CoBfoPChOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
