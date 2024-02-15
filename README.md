@@ -10,7 +10,7 @@ A passionate Flutter Developer From India
 
     💬 Ask me about Flutter
 
-    📫 How to reach me vineeth.venu.mini@gmail.com
+    📫 How to reach me mohmedyasin1406@gmail.com
 Project Fresh and Fish revolutionizes seafood with a sustainable, transparent supply chain. Through technology, it ensures responsibly sourced products, educates consumers, and supports local economies for a healthier future for both oceans and communities.
 
 ## Getting Started
